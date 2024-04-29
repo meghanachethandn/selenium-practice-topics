@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="SeleniumPratices.Topice.AppTest"/>
+      <class name="SeleniumPratices.Topice.MultipleDropDownWithGenericMethod"/>
+      <class name="SeleniumPratices.Topice.dropDown"/>
+      <class name="SeleniumPratices.Topice.getTextGetAttirubute"/>
+      <class name="SeleniumPratices.Topice.webElementIsEnableisdisableisseleted"/>
+      <class name="SeleniumPratices.Topice.BaiceUrlBrowser"/>
+      <class name="SeleniumPratices.Topice.PageNavigation"/>
+      <class name="SeleniumPratices.Topice.FindElementandElements"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
